@@ -1,5 +1,5 @@
 # Vibranthive
-Vibranthive is a modern blogging application inspired by platforms like Medium, designed to empower users to share their ideas and stories with the world. 
+A modern blogging application inspired by platforms like Medium, designed to empower users to share their ideas and stories with the world. 
 
 ## Tech Stack
 ### Frontend
@@ -23,11 +23,11 @@ Vibranthive is a modern blogging application inspired by platforms like Medium, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chandanck22/vibranthive.git
+git clone https://github.com/rahulbhardwaj01/medium_app.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd vibranthive
+cd medium_app
 ```
 3. Install dependencies for both the frontend and backend:
 ```bash
